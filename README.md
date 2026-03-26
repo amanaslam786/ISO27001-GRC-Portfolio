@@ -1,8 +1,8 @@
+![ISO 27001 Portfolio](banner.png)
+
 # Aman Aslam
 
 ## ISO 27001 GRC + AI Security Portfolio
-
-![ISO 27001 Portfolio](banner.png)
 
 ---
 
