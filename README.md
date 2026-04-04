@@ -9,6 +9,8 @@
 
 ## 📌 About This Portfolio
 
+Developed and led a full-scale ISO 27001 ISMS implementation aligned with enterprise security and compliance objectives.
+
 This repository presents a complete **ISO/IEC 27001:2022 Information Security Management System (ISMS)** implementation, combined with **AI Security Governance and Governance, Risk & Compliance (GRC) practices**.
 
 This is a **real-world, end-to-end implementation practical portfolio** developed to demonstrate hands-on expertise in:
