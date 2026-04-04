@@ -4,18 +4,19 @@
 
 # Aman Aslam
 
-## ISO 27001 GRC + AI Security Portfolio
+## Information Security, GRC & AI Security Portfolio
 
 
 ## 📌 About This Portfolio
 
-This repository presents a complete **ISO/IEC 27001:2022 Information Security Management System (ISMS)** implementation, combined with **AI Security Governance and GRC practices**.
+This repository presents a complete **ISO/IEC 27001:2022 Information Security Management System (ISMS)** implementation, combined with **AI Security Governance and Governance, Risk & Compliance (GRC) practices**.
 
-This is a **real-world practical portfolio** developed to demonstrate hands-on expertise in:
+This is a **real-world, end-to-end implementation practical portfolio** developed to demonstrate hands-on expertise in:
 
 * Governance, Risk & Compliance (GRC)
 * ISO 27001 Implementation
 * AI Security & Risk Management
+* Information Security Governance
 * Internal Audit & Management Review
 
 ---
@@ -59,33 +60,35 @@ ISO27001-GRC-Portfolio/
 
 ## 🔍 Key Highlights
 
-* Full ISO/IEC 27001:2022 aligned ISMS
+* Full ISO/IEC 27001:2022 aligned ISMS Implementation
 * Practical Risk Assessment & Treatment Plan
 * Complete Statement of Applicability (SoA)
-* AI Security Policy (advanced + rare skill)
-* Internal Audit Simulation
-* Management Review Report
+* AI Security Policy (advanced and emerging capability + rare skill)
+* Internal Audit Simulation with structured findings
+* Management Review Report aligned with governance best practice
 
 ---
 
 ## 🎯 Purpose
 
-This portfolio is designed for:
+This portfolio is designed to demonstrate capabilities relevant to:
 
-* GRC Analyst (AI + Security) roles
-* Cybersecurity / Compliance positions
-* Freelance consulting & client acquisition
+* Information Security Lead roles
+* GRC Consultant positions
+* Cybersecurity / Compliance Leadership roles
+* ISO 27001 implementation & advisory engagements
+* Freelance consulting and client-based security assessments
 
-It demonstrates **practical implementation skills**, not just theoretical knowledge.
+It reflects practical, **real-world implementation experience** rather than theoretical knowledge.
 
 ---
 
 ## 📈 How to Use
 
-* Review policies to understand control implementation
-* Analyze Risk Assessment & SoA for decision-making
-* Check Audit & Management Review for governance insight
-* Use as a reference for ISO 27001 implementation projects
+* Review policies to understand control implementation and governance design
+* Analyze Risk Assessment & SoA for decision-making and compliance mapping
+* Evaluate Audit and Management Review reports for governance maturity
+* Use as a reference model for ISO 27001 ISMS implementation projects
 
 ---
 
